@@ -2,7 +2,7 @@
 ## Tarea 2
 
 ### Crear un método que reciba como parámetros un arreglo de números, un número para agregarlo al arreglo y un tamaño máximo del arreglo:
-   _addElement(array, element, maxSize)_ 
+   >addElement(array, element, maxSize)
 ### Y se debe considerar lo siguiente:
 
    #### Si el elemento no existe en el arreglo y no se ha alcanzado el tamaño máximo, agregar al nuevo elemento al final.
